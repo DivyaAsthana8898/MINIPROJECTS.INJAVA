@@ -10,7 +10,7 @@ class Book{
         this.issuedOn = issuedOn;
         this.issuedTo = issuedTo;
     }
-     void displaydetails(){// YHA SE HME OUTPUT MILEGA 
+     void displaydetails(){// WE WILL GET OUTPUT FROM THIS BLOCK
         
         System.out.println(" THE BOOK NAME:" +name);
         
@@ -53,6 +53,7 @@ public class problem26{
         b1.displaydetails();//OBJECT BEEN CREATED CALLING METHOD DISPLAYDETAILS TO PRINT THE OUTPUT
     }
 }
+
 
 
 
